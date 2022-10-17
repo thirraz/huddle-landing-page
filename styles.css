@@ -129,7 +129,7 @@ header {
   border: 1px solid #e980e7;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
   body {
     background-image: url("./images/bg-mobile.svg");
   }
